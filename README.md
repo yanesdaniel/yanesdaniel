@@ -9,8 +9,8 @@
 I'm a **Software Engineering** student and passionate about **science and technology**. I specialize in scientific software development, machine learning model development, and backend development, with the goal of creating scalable, efficient, and high-impact solutions.
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=DanielYanesDev&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=aura" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DanielYanesDev&layout=donut&langs_count=4&theme=aura" alt="Top Languages" />
+  <img src="./images/stats.svg" alt="My GitHub Stats" />
+  <img src="./images/top-langs.svg" alt="My Top Languages" />
 </p>
 
 ## 🧠 Areas of Interest
