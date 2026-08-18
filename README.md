@@ -71,6 +71,6 @@ I'm a **Software Engineering** student and passionate about **science and techno
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyandev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielyanes)
 
 > ✨ "Always open to new projects and opportunities to grow"
