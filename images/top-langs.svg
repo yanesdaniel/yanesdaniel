@@ -147,7 +147,7 @@
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 14.68%
+        Jupyter Notebook 14.69%
       </text>
     </g>
   </g>
@@ -191,8 +191,8 @@
        <g class="stagger" style="animation-delay: 900ms">
         <path
           data-testid="lang-donut"
-          size="14.68"
-          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 71.50128504768628 82.44387580556098"
+          size="14.69"
+          d="M 116.70227138106466 60.00001118555129 A 56.66666666666667 56.66666666666667 0 0 0 71.50128504768628 82.44387580556098"
           stroke="#DA5B0B"
           fill="none"
           stroke-width="12">
