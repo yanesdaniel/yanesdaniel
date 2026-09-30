@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2.0.2
+        uses: stats-organization/github-readme-stats-action@v2.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=aura
@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@v2.1.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=donut&langs_count=4&theme=aura
